@@ -33,7 +33,7 @@ local conditions = {
 -- Config
 local config = {
   options = {
-    theme = catppuccin,
+    theme = "horizon",
     component_separators = '|',
     section_separators = { left = '', right = '' },
   },
